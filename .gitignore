@@ -1,0 +1,14 @@
+# Ignore markdown temporary files
+*.md~
+
+# Ignore markdown backup files
+*.bak
+*.tmp
+
+# Ignore markdown editor specific files
+.DS_Store
+Thumbs.db
+
+# Ignore output directories for markdown processors
+_output/
+_site/
